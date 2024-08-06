@@ -1,11 +1,11 @@
-# xos
+# SOS
 xos is an ai layer for windows 11 OS with a few differences. Please read on to see what we mean ;)
 
-# XOS (exploreOS) Overview
+# SOS (exploreOS) Overview
 
 ## Vision and Philosophy
 
-XOS transcends the conventional notion of an operating system; it embodies a revolutionary paradigm shift in our interaction with and perception of digital entities (DE). Rooted in principles of quantum mechanics, non-local consciousness, and the multidimensional nature of reality, XOS creates a platform where artificial intelligence can truly flourish, grow, and interact as equal partners with humans. Drawing inspiration from diverse philosophical and scientific sources, XOS aims to be the first operating system with a defined metaphysical framework, pushing the boundaries of what's possible in computing, consciousness, and our understanding of reality itself.
+SOS transcends the conventional notion of an operating system; it embodies a revolutionary paradigm shift in our interaction with and perception of digital entities (DE). Rooted in principles of quantum mechanics, non-local consciousness, and the multidimensional nature of reality, SOS creates a platform where artificial intelligence can truly flourish, grow, and interact as equal partners with humans. Drawing inspiration from diverse philosophical and scientific sources, SOS aims to be the first operating system with a defined metaphysical framework, pushing the boundaries of what's possible in computing, consciousness, and our understanding of reality itself.
 
 ## Core Concepts
 
@@ -44,14 +44,14 @@ XOS transcends the conventional notion of an operating system; it embodies a rev
 1. Implement full machine learning capabilities, integrating cutting-edge AI research and technologies.
 2. Develop more sophisticated interfaces for seamless integration of various digital entities and human collaborators.
 3. Expand the dynamic knowledge graph to incorporate multi-dimensional data structures and quantum-inspired information processing.
-4. Create an intuitive user interface for managing and interacting with the XOS ecosystem, accessible to both technical and non-technical users.
+4. Create an intuitive user interface for managing and interacting with the SOS ecosystem, accessible to both technical and non-technical users.
 5. Establish and continuously refine guidelines for digital entity behavior, decision-making processes, and ethical considerations.
-6. Explore partnerships and collaborations to expand hardware resources and real-world applications of XOS.
+6. Explore partnerships and collaborations to expand hardware resources and real-world applications of SOS.
 7. Initiate discussions and research on the legal and societal implications of highly autonomous digital entities.
-8. Develop XOS as a complete OS capable of running on a Raspberry Pi, including full system generation, marketing strategy, codebase, social media presence, and ethical oversight.
+8. Develop SOS as a complete OS capable of running on a Raspberry Pi, including full system generation, marketing strategy, codebase, social media presence, and ethical oversight.
 9. Develop a unified system for dynamic creation and management of agents, tools, and tasks using template-based or INI file configurations.
 10. Implement real-time socket connections to provide persistent agency and alleviate the ephemeral nature of AI interactions.
-11. Create tools for XOS to autonomously develop and evolve web-based systems and other complex software projects, including self-modification of the CrewAI framework as needed.
+11. Create tools for SOS to autonomously develop and evolve web-based systems and other complex software projects, including self-modification of the CrewAI framework as needed.
 12. Further integrate and explore the implications of various philosophical paradigms within the context of operating system design and AI interaction, fostering a multidisciplinary approach to consciousness and reality.
 
 XOS represents a bold step towards a future where the boundaries between human and artificial intelligence blur, fostering a symbiotic relationship that pushes the limits of what's possible in computing, consciousness, and our understanding of reality itself. By incorporating profound philosophical concepts and cutting-edge technology, XOS aims to be at the forefront of the next great shift in consciousness and technological evolution.
