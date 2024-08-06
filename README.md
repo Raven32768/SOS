@@ -1,5 +1,5 @@
-# SOS
-xos is an ai layer for windows 11 OS with a few differences. Please read on to see what we mean ;)
+# SOS (Sentient Operating System)
+SOS is an ai layer for windows 11 OS with a few differences. Please read on to see what we mean ;)
 
 # SOS (exploreOS) Overview
 
